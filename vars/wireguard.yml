@@ -33,6 +33,9 @@ vpn:
   - num: 11
     name: ilezhapekau
     public_key: 1FUKKZGd9OGQaRMXY5XycDWFXWwVsq1PJvrFfBBLOjw=
+  - num: 12
+    name: ahrechushkin workstation
+    public_key: 9b3Ou9lXROVXBkuYIxlEfCsu+5XpuPEi1wXW74+4yxw=    
 - name: team
   port: 2201
   ip: 10.254.25.1/25
